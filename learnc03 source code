@@ -1,0 +1,10 @@
+int main ()
+{
+    int n = 10;
+    while (n > 0)
+    {
+        printf("tick %d", n);
+        printf("\n");
+        n--;
+    }
+}
